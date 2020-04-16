@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53c4d840-2269-4f6b-a890-9166b21921d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHaSMYgsIEkS2oiq9xANMutV4B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53c4d840-2269-4f6b-a890-9166b21921d4" name="Default Changelist" comment="" />
+      <created>1586394971226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586394971226</updated>
+      <workItem from="1586394972991" duration="1622000" />
+      <workItem from="1586639482624" duration="720000" />
+      <workItem from="1586810661271" duration="1562000" />
+      <workItem from="1586990240201" duration="1203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1459" y="336" key="SettingsEditor" timestamp="1586395855439">
+      <screen x="-1920" y="174" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="336" key="SettingsEditor/0.0.1234.783/-1920.174.1920.1040@-1920.174.1920.1040" timestamp="1586395855439" />
+    <state x="-1264" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1586991059414">
+      <screen x="-1920" y="174" width="1920" height="1040" />
+    </state>
+    <state x="-1264" y="518" key="com.intellij.ide.util.TipDialog/0.0.1234.783/-1920.174.1920.1040@-1920.174.1920.1040" timestamp="1586991059414" />
+  </component>
+</project>
