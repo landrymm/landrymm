@@ -1,64 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53c4d840-2269-4f6b-a890-9166b21921d4" name="Default Changelist" comment="" />
+    <list default="true" id="3586b884-069b-43d5-a82e-bf637f6ce823" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1aHaSMYgsIEkS2oiq9xANMutV4B" />
+  <component name="ProjectId" id="1au0sTmLQ6ksDR063aKF4kepvFg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53c4d840-2269-4f6b-a890-9166b21921d4" name="Default Changelist" comment="" />
-      <created>1586394971226</created>
+      <changelist id="3586b884-069b-43d5-a82e-bf637f6ce823" name="Default Changelist" comment="" />
+      <created>1587570377464</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586394971226</updated>
-      <workItem from="1586394972991" duration="1622000" />
-      <workItem from="1586639482624" duration="720000" />
-      <workItem from="1586810661271" duration="1562000" />
-      <workItem from="1586990240201" duration="1203000" />
+      <updated>1587570377464</updated>
+      <workItem from="1587570378575" duration="10304000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1459" y="336" key="SettingsEditor" timestamp="1586395855439">
-      <screen x="-1920" y="174" width="1920" height="1040" />
+    <state x="733" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587601396237">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="336" key="SettingsEditor/0.0.1234.783/-1920.174.1920.1040@-1920.174.1920.1040" timestamp="1586395855439" />
-    <state x="-1264" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1586991059414">
-      <screen x="-1920" y="174" width="1920" height="1040" />
-    </state>
-    <state x="-1264" y="518" key="com.intellij.ide.util.TipDialog/0.0.1234.783/-1920.174.1920.1040@-1920.174.1920.1040" timestamp="1586991059414" />
+    <state x="733" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587601396237" />
   </component>
 </project>
