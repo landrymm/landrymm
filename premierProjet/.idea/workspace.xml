@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac0a6a6-17e8-4c15-9def-6b6dd4b1f369" name="Default Changelist" comment="" />
+    <list default="true" id="cf03b9f1-b00d-4254-ab21-236f1a574ccd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,47 +17,53 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1aHQ2u4bgURUI6uxjcbFqDy7aun" />
+  <component name="ProjectId" id="1atwoNtIwpaFtjzGev1rBRK6ex6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Images" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1ac0a6a6-17e8-4c15-9def-6b6dd4b1f369" name="Default Changelist" comment="" />
-      <created>1586389837126</created>
+      <changelist id="cf03b9f1-b00d-4254-ab21-236f1a574ccd" name="Default Changelist" comment="" />
+      <created>1587568371491</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586389837126</updated>
-      <workItem from="1586389843199" duration="4917000" />
+      <updated>1587568371491</updated>
+      <workItem from="1587568373618" duration="2431000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="449" key="FileChooserDialogImpl" timestamp="1586390116216">
-      <screen x="-1920" y="174" width="1920" height="1040" />
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587568792390">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1180" y="449" key="FileChooserDialogImpl/0.0.1234.783/-1920.174.1920.1040@-1920.174.1920.1040" timestamp="1586390116216" />
-    <state x="-1459" y="336" key="SettingsEditor" timestamp="1586394257203">
-      <screen x="-1920" y="174" width="1920" height="1040" />
+    <state x="719" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587568792390" />
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1587570365668">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1459" y="336" key="SettingsEditor/0.0.1234.783/-1920.174.1920.1040@-1920.174.1920.1040" timestamp="1586394257203" />
-    <state x="318" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1586389843320">
-      <screen x="0" y="0" width="1234" height="783" />
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587570365668" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1587569254408">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="318" y="216" key="com.intellij.ide.util.TipDialog/0.0.1234.783/-1920.174.1920.1040@0.0.1234.783" timestamp="1586389843320" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587569254408" />
   </component>
 </project>
