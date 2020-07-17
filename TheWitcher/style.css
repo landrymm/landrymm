@@ -1,0 +1,51 @@
+/*style.css*/
+/*cree par Marie-Michele Landry*/
+/*Le 08-06-2020*/
+
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f05f40;
+}
+
+fondRouge{
+    background-color: red;
+    height: 100px;
+}
+
+.fondBleu{
+    background-color: blue;
+    height: 100px;
+}
+
+background{
+    background-color: #0b0b0b;
+
+}
+
+.entete{
+    font-weight: bold;
+    color: #6c6c6c;
+}
+
+@font-face {
+    font-family: Thewitcher;
+    src: url("./font/Thewitcher-jnOj.ttf");
+}
+
+.banniere{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    align-content: center;
+}
+
+.pied{
+    color: white;
+    font-family: Thewitcher
+}
