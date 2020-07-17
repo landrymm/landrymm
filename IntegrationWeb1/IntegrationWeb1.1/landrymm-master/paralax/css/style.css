@@ -1,0 +1,57 @@
+/*Exercice Paralax*/
+/*Par Marie-Michele Landry*/
+/*Le 08-06-2020*/
+
+html,body { margin:0; height:100%;}
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../media/backgroundleague.jpg");
+    /* L’hauteur du Parallax */
+    height: 100%;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fondjaune{
+    background-color: yellow;
+    background-repeat: no-repeat;
+}
+.fondvert{
+    background-color: green;
+    background-repeat: no-repeat;
+}
+.fondbleu{
+    background-color: blue;
+    background-repeat: no-repeat;
+}
+
+.parallax2{
+    background-image:url("../media/alexey-savchenko-k4Akpt5-Sfk-unsplash.jpg") ;
+    height:500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax3{
+    background-image:url("../media/zone4.jpg");
+    height: 500px;
+    width: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 480px){
+    body{
+        background-image: url("../media/teemo.jpg");
+        height: auto;
+    }
+.zone2{ display: none;}
+.zone5{ display: none;}
+}

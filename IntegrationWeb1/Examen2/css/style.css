@@ -1,0 +1,56 @@
+/*style.css*/
+/*Crée par Marie-Michèle Landry*/
+/*Le 03-06-2020*/
+
+
+
+hr{
+    background: #353434;
+    height: 1px;
+    border-style: none;
+    margin:2% 0
+}
+
+.fondRouge{
+    background-color:red;
+    height: 100px; /*ne jamais specifier de hauteur avec bootstrap*/
+}
+.fondBleu{
+    background-color: blue;
+    height: 100px;
+}
+
+body{
+    background-color:#0b0b0b  ;
+}
+
+
+
+@font-face {
+    font-family: Thewitcher-jnOj.ttf;
+    src:url("../font/Thewitcher-jnOj.ttf");
+}
+
+#banniere{
+    background-image: url("../img/witcherBanniere.jpg");
+    width: 1920px;
+    height: 700px;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: Thewitcher-jnOj;
+
+}
+#jeux{
+  text-decoration-color: #6c6c6c;
+}
+
+
+#nousjoindre{
+    text-decoration-color: white;
+    font-family: Thewitcher-jnOj;
+}
+
+.entete{
+    text-decoration-color: #6c6c6c;
+    font-weight: bold;
+}

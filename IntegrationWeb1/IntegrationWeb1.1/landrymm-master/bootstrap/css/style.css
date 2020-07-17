@@ -1,0 +1,23 @@
+/*style.css*/
+/*cree par Marie-Michele Landry*/
+/*Le 20-05-2020*/
+
+fondRouge{
+    background-color: red;
+    height: 100px;
+}
+
+.fondBleu{
+    background-color: blue;
+    height: 100px;
+}
+
+.fondjaune{
+    background-color: yellow;
+    height: 100px;
+}
+
+.fondvert{
+    background-color: green;
+    height: 100px;
+}

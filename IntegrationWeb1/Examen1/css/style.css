@@ -1,0 +1,62 @@
+/*style.css*/
+/*Créé par Marie-Michèle Landry*/
+/*Le 06-05-2020*/
+
+body{ width: 1000px;
+    background-image: url("../img/fondecran.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    background-position: center;
+    text-align: center;
+    margin: auto;
+}
+
+h1{ font-size: 140px;
+    color: yellow;
+    text-align: center;
+    margin: 0;
+}
+
+h2,h3,h4{color: white;
+    text-align: center;
+}
+
+h2{ font-size: 70px}
+
+h3{font-size: 58px}
+
+h4{font-size: 40px}
+
+p{text-align:justify;
+    color:white;
+    font-size: 30px;
+    font-family: jagwi;
+}
+
+@font-face {
+    font-family: jagwi;
+    src: url("../font/jagwi.ttf");
+}
+
+img{display:block;
+    text-align:center;
+    margin:auto;
+}
+
+.episode{
+    color: yellow;
+}
+
+
+.menu {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+#ImageDeBabyYoda{
+    max-width: 50%;
+}
+
+.liste{font-size: 22px;
+}
